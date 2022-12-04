@@ -1,0 +1,124 @@
+07:26:09.198 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:26:09.233 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the Homepage title  TEST START   =====================
+07:26:09.407 [main] INFO  com.nopecommerce.utility.Log - Title of the home page is verified
+07:26:09.408 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the Home page title    TEST END   =====================
+07:26:09.582 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:26:13.363 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:26:13.377 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the application Logo is displayed or not  TEST START   =====================
+07:26:13.530 [main] INFO  com.nopecommerce.utility.Log - Logo is displayed in home page
+07:26:13.531 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the application Logo is displayed or not    TEST END   =====================
+07:26:13.716 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:26:18.254 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:26:18.257 [main] INFO  com.nopecommerce.utility.Log - =====================   verify product banner displayed in homepage  TEST START   =====================
+07:26:18.391 [main] INFO  com.nopecommerce.utility.Log - product banner is displayed in homepage
+07:26:18.392 [main] INFO  com.nopecommerce.utility.Log - =====================   verify product banner displayed in homepage    TEST END   =====================
+07:26:18.560 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:26:21.635 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:26:21.644 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the register page URL and title  TEST START   =====================
+07:26:21.644 [main] INFO  com.nopecommerce.utility.Log - verify the register page URL and title
+07:26:24.848 [main] INFO  com.nopecommerce.utility.Log - click the register button in home page
+07:26:24.865 [main] INFO  com.nopecommerce.utility.Log - URL of the  register page is verified
+07:26:24.892 [main] INFO  com.nopecommerce.utility.Log - Title of  the register page is verified
+07:26:24.893 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the register page URL and title    TEST END   =====================
+07:26:25.091 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:26:31.908 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:26:31.917 [main] INFO  com.nopecommerce.utility.Log - =====================   verfiy the user acount creation  TEST START   =====================
+07:26:38.426 [main] INFO  com.nopecommerce.utility.Log - user credential is passed to in given fields
+07:26:38.427 [main] INFO  com.nopecommerce.utility.Log - Register Button is clicked
+07:26:38.544 [main] INFO  com.nopecommerce.utility.Log - user account is sucessesfully created
+07:26:38.544 [main] INFO  com.nopecommerce.utility.Log - =====================   verfiy the user acount creation    TEST END   =====================
+07:26:38.725 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:26:40.930 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:26:40.934 [main] INFO  com.nopecommerce.utility.Log - =====================   verfiy the user acount creation  TEST START   =====================
+07:26:47.466 [main] INFO  com.nopecommerce.utility.Log - user credential is passed to in given fields
+07:26:47.466 [main] INFO  com.nopecommerce.utility.Log - Register Button is clicked
+07:26:47.552 [main] INFO  com.nopecommerce.utility.Log - user account is sucessesfully created
+07:26:47.553 [main] INFO  com.nopecommerce.utility.Log - =====================   verfiy the user acount creation    TEST END   =====================
+07:26:47.702 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:26:49.872 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:26:49.874 [main] INFO  com.nopecommerce.utility.Log - =====================   verfiy the user acount creation  TEST START   =====================
+07:26:55.781 [main] INFO  com.nopecommerce.utility.Log - user credential is passed to in given fields
+07:26:55.781 [main] INFO  com.nopecommerce.utility.Log - Register Button is clicked
+07:26:55.902 [main] INFO  com.nopecommerce.utility.Log - warning messaage showed is verified
+07:26:55.902 [main] INFO  com.nopecommerce.utility.Log - =====================   verfiy the user acount creation    TEST END   =====================
+07:26:56.082 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:26:59.090 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:26:59.093 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the login page title and WelcomeMessage  TEST START   =====================
+07:27:00.364 [main] INFO  com.nopecommerce.utility.Log - user clicked the login button on the home page
+07:27:00.377 [main] INFO  com.nopecommerce.utility.Log - login page title is verified
+07:27:00.463 [main] INFO  com.nopecommerce.utility.Log - login page welcome message is verified
+07:27:00.464 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the login page title and WelcomeMessage    TEST END   =====================
+07:27:00.628 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:27:03.961 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:27:03.962 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the login account with user details  TEST START   =====================
+07:27:09.355 [main] INFO  com.nopecommerce.utility.Log - user provide the login details
+07:27:09.355 [main] INFO  com.nopecommerce.utility.Log - user Account is sucessfuly created
+07:27:09.357 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the login account with user details    TEST END   =====================
+07:27:09.611 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:27:12.297 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:27:12.301 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the login account with user details  TEST START   =====================
+07:27:16.243 [main] INFO  com.nopecommerce.utility.Log - pass the invalid user details
+07:27:16.243 [main] INFO  com.nopecommerce.utility.Log - user get error  message like correct the errors and try again
+07:27:16.243 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the login account with user details    TEST END   =====================
+07:27:16.408 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:27:18.933 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:27:18.939 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the login account with user details  TEST START   =====================
+07:27:23.246 [main] INFO  com.nopecommerce.utility.Log - pass the invalid user details
+07:27:23.247 [main] INFO  com.nopecommerce.utility.Log - user get error  message like no account found
+07:27:23.247 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the login account with user details    TEST END   =====================
+07:27:23.447 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:27:26.220 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:27:26.222 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the login account with user details  TEST START   =====================
+07:27:28.942 [main] INFO  com.nopecommerce.utility.Log - pass the invalid user details
+07:27:28.943 [main] INFO  com.nopecommerce.utility.Log - user get error  message like correct the errors and try again
+07:27:28.943 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the login account with user details    TEST END   =====================
+07:27:29.052 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:27:31.761 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:27:31.762 [main] INFO  com.nopecommerce.utility.Log - =====================   verfiy user get list of product or not based on search  TEST START   =====================
+07:27:33.461 [main] INFO  com.nopecommerce.utility.Log - user get related products
+07:27:33.462 [main] INFO  com.nopecommerce.utility.Log - =====================   verfiy user get list of product or not based on search    TEST END   =====================
+07:27:33.623 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:27:35.784 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:27:35.786 [main] INFO  com.nopecommerce.utility.Log - =====================   verfiy user get list of product or not based on search  TEST START   =====================
+07:27:38.300 [main] INFO  com.nopecommerce.utility.Log - user get related products
+07:27:38.300 [main] INFO  com.nopecommerce.utility.Log - =====================   verfiy user get list of product or not based on search    TEST END   =====================
+07:27:38.464 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:27:42.686 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:27:42.688 [main] INFO  com.nopecommerce.utility.Log - =====================   verfiy the  name of the user selected product   TEST START   =====================
+07:27:47.441 [main] INFO  com.nopecommerce.utility.Log - user get the search result and select the  product name HTC One Mini Blue
+07:27:47.441 [main] INFO  com.nopecommerce.utility.Log - verified the user selected product name
+07:27:47.441 [main] INFO  com.nopecommerce.utility.Log - =====================   verfiy the  name of the user selected product     TEST END   =====================
+07:27:47.603 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:27:51.122 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:27:51.126 [main] INFO  com.nopecommerce.utility.Log - =====================   verify product details is displayed or not  TEST START   =====================
+07:27:57.310 [main] INFO  com.nopecommerce.utility.Log - verified product detail is displayed properly
+07:27:57.311 [main] INFO  com.nopecommerce.utility.Log - =====================   verify product details is displayed or not    TEST END   =====================
+07:27:57.420 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:27:59.939 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:27:59.950 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the AddtocartSuccesses message  TEST START   =====================
+07:28:06.017 [main] INFO  com.nopecommerce.utility.Log - selected product is add to cart
+07:28:06.606 [main] INFO  com.nopecommerce.utility.Log - add to cart successes message is verified
+07:28:06.606 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the AddtocartSuccesses message    TEST END   =====================
+07:28:06.860 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:28:10.100 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:28:10.104 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the selected product quantity and all the  price(unit , total and granttotal) of the product  TEST START   =====================
+07:28:17.821 [main] INFO  com.nopecommerce.utility.Log - product price is verified
+07:28:17.879 [main] INFO  com.nopecommerce.utility.Log - product quantity is verified
+07:28:17.972 [main] INFO  com.nopecommerce.utility.Log - product subtotal is verfied
+07:28:20.002 [main] INFO  com.nopecommerce.utility.Log - finally grant total is verified
+07:28:20.003 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the selected product quantity and all the  price(unit , total and granttotal) of the product    TEST END   =====================
+07:28:20.262 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:28:22.981 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:28:22.983 [main] INFO  com.nopecommerce.utility.Log - =====================   verify terms and condition alert message and proceed checkout  TEST START   =====================
+07:28:32.501 [main] INFO  com.nopecommerce.utility.Log - warning alert is verified
+07:28:34.637 [main] INFO  com.nopecommerce.utility.Log - user sucessesfully forward to checkout page
+07:28:34.638 [main] INFO  com.nopecommerce.utility.Log - =====================   verify terms and condition alert message and proceed checkout    TEST END   =====================
+07:28:34.811 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:28:37.293 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:28:37.305 [main] INFO  com.nopecommerce.utility.Log - =====================   verify the address given for checkout page  TEST START   =====================
+07:29:07.522 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser
+07:29:11.810 [main] INFO  com.nopecommerce.utility.Log - ------>  Initialize the chrome headless browser
+07:29:11.812 [main] INFO  com.nopecommerce.utility.Log - =====================   verfiy whether user get order confirm message or not  TEST START   =====================
+07:29:44.584 [main] INFO  com.nopecommerce.utility.Log - user get the orderconfirm message sucessesfully
+07:29:44.584 [main] INFO  com.nopecommerce.utility.Log - =====================   verfiy whether user get order confirm message or not    TEST END   =====================
+07:29:44.744 [main] INFO  com.nopecommerce.utility.Log - -------->   Quit the  browser

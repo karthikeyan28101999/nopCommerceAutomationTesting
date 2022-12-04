@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<parameter name="browser" value="chrome headless"></parameter>
+	<listeners>
+		<listener class-name="com.nopecommerce.utility.Listener"></listener>
+	</listeners>
+	<test name="HomePage">
+		<classes>
+			<class name="nopCommerce.testcase.HomePageTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="RegisterPage">
+		<classes>
+			<class name="nopCommerce.testcase.RegisterPageTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="LoginPage">
+		<classes>
+			<class name="nopCommerce.testcase.LoginPageTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="SearchResultPage">
+		<classes>
+			<class name="nopCommerce.testcase.SearchResultPageTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="ProductDetailsPage">
+		<classes>
+			<class name="nopCommerce.testcase.ProductDetailsPageTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="ShoppingCartPage">
+		<classes>
+			<class name="nopCommerce.testcase.ShoppingCartPageTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="CheckOutPage">
+		<classes>
+			<class name="nopCommerce.testcase.CheckOutPageTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="OrderConfirmPage">
+		<classes>
+			<class name="nopCommerce.testcase.EndToEndTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
